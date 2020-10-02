@@ -24,7 +24,7 @@
 import _mysql
 import sys
 import time
-from blinkm import sendRGB, stopScript, playScript
+from blink import send RGB, stop script, playScript
 
 def get_commands():
 
